@@ -69,6 +69,12 @@ Settlement → public final tally
 
 ---
 
+## Architecture
+
+![ShadowVote Architecture](architecture-shadowvote.png)
+
+---
+
 ## Execution Flow
 
 User casts encrypted vote  
@@ -78,6 +84,12 @@ Arcium MXE tallies votes privately
 Correctness proof generated  
 ↓  
 Final result revealed on Solana
+
+---
+
+## UI Mock
+
+![ShadowVote UI](shadowvote-ui.png)
 
 ---
 
